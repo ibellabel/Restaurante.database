@@ -81,3 +81,7 @@ Validate table relationships
 Test SQL queries
 Simulate real restaurant scenarios
 
+# Authors 
+Sebastian Ruiz
+Isabella Bejarano
+
